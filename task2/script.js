@@ -7,4 +7,5 @@ for(let i = 0; i <= arr.length; i++) {
     num = arr[i];
   }
 }
+alert(`Output: ${num}`);
 document.write(`Output: ${num}`);
